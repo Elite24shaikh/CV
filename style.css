@@ -1,0 +1,36 @@
+
+body{
+    background-color:#EAF6F6 ;
+    color: black;
+    }
+    
+    hr{
+        border-style: none ;
+        border-top-style: dotted;
+        border-color: olivedrab;
+        border-width: 5px;
+        width:5%;
+    }
+    
+    img{
+        background-color: black;
+        border-radius: 100%;
+        width: 180px;
+    }
+    
+    h3{
+        height: 30px;
+        width: 17%;
+        border-style: solid;
+        border-radius: 100px;
+        border-width: 3px;
+        text-align: center;
+        
+    }
+
+    h1 {
+        color: #66BFBF;
+    }
+    h3 {
+        color: #66BFBF;
+    }
